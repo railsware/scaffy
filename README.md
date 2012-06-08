@@ -1,4 +1,5 @@
-scaffy
+Scaffy
 ======
 
-Repo moved to scaffy.railsware.com
+Repo moved to http://scaffy.railsware.com
+
